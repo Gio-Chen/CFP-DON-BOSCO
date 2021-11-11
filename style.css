@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+
+.blu {
+    background-color: #4971FF;
+}
+
+#prima-fascia {
+    height: 36px;
+    text-align: right;
+}
+
+#prima-fascia a {
+    padding: 5px;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    text-decoration: none;
+}
+
+#seconda-fascia {
+    height: 75px;
+}
+
+#nav-link {
+    text-align: right;
+    padding-top: 20px;
+}
+
+#nav-link a{
+    
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    color: #4971FF;
+    text-decoration: none;
+}
