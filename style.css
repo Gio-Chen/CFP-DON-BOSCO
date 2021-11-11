@@ -24,15 +24,20 @@
 
 #nav-link {
     text-align: right;
+    vertical-align: middle;
     padding-top: 30px;
 }
 
 #nav-link a{
-    padding-right: 10px;
+    padding-right: 10px;    
     font-size: 16px;
     font-family: 'Montserrat', sans-serif;
     color: #4971FF;
     text-decoration: none;
+}
+
+#alinea-img {
+    vertical-align: middle;
 }
 
 #terza-fascia h5{
@@ -45,9 +50,36 @@
     font-family: 'Montserrat', sans-serif;
 }
 
-
-
 .car-link {
     color: white;
     text-decoration: none;
+}
+
+.card-title {
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.card-text {
+    font-size: 16;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#quinta-fascia {
+    background-color: #4971FF;
+}
+
+.i {
+    text-align: center;
+    padding: 20px;
+}
+
+#titolo {
+    color: white;
+    font-size: 40px;
+}
+
+#testo {
+    color: white;
+    font-size: 16px;
 }
